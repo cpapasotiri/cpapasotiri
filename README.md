@@ -3,7 +3,7 @@
 </h1>
 
 <!-- social media bottoms -->
-[![Github][1icon1]][1] 
+[![Github][iocn1_1]][1] 
 &nbsp;
 <!-- [![CV][icon2_1]][2] 
 &nbsp; -->
@@ -20,12 +20,12 @@
 
 <!--icons -->
 <!-- icons with padding -->
-[1icon1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[iocn1_1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- [icon_2_1]: -->
 [icon3_1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [icon4_1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-<!--[icon5_1]: -->
+[icon5_1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram&psig=AOvVaw2xFEzx8nn6upmkqDkNXuRL&ust=1616674165987000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiF3uDyyO8CFQAAAAAdAAAAABAD <!-- αλλαξέ το-->
 <!-- [icon6_1]:-->
 
 <!-- icons without padding -->
