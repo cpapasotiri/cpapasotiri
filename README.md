@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>
+ Hi there! 👋 &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+</h1>
 
-<!--
-**cpapasotiri/cpapasotiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- social media bottoms -->
+[![LinkedIn][icon1_1]][1] &nbsp;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--icons -->
+[icon1_1] https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
+
+<!-- links to social media accounts -->
+[1]: www.linkedin.com/in/cpapasotiri
