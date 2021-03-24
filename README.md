@@ -3,7 +3,7 @@
 </h1>
 
 <!-- social media bottoms -->
-[![Github][iocn1_1]][1] 
+[![Github][icon1_1]][1] 
 &nbsp;
 <!-- [![CV][icon2_1]][2] 
 &nbsp; -->
@@ -20,7 +20,7 @@
 
 <!--icons -->
 <!-- icons with padding -->
-[iocn1_1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[icon1_1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- [icon_2_1]: -->
 [icon3_1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
