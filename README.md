@@ -1,12 +1,11 @@
 <h1>
  Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
-
+<!-- [![CV][icon2_1]][2] 
+&nbsp; -->
 <!-- social media bottoms -->
 [![Github][icon1_1]][1] 
 &nbsp;
-<!-- [![CV][icon2_1]][2] 
-&nbsp; -->
 [![LinkedIn][icon3_1]][3] 
 &nbsp;
 [![Facebook][icon4_1]][4] 
