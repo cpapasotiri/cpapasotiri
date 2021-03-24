@@ -3,11 +3,16 @@
 </h1>
 
 <!-- social media bottoms -->
-[![Github][iocn1_1]][1] &nbsp;
-<!-- [![CV][icon2_1]][2] &nbsp; -->
-[![LinkedIn][icon3_1]][3] &nbsp;
-[![Facebook][icon4_1]][4] &nbsp;
-[![Instagram][icon5_1]][5] &nbsp;
+[![Github][iocn1_1]][1] 
+&nbsp;
+<!-- [![CV][icon2_1]][2] 
+&nbsp; -->
+[![LinkedIn][icon3_1]][3] 
+&nbsp;
+[![Facebook][icon4_1]][4] 
+&nbsp;
+[![Instagram][icon5_1]][5] 
+&nbsp;
 <!-- [![Spotify][icon6_1]][6] --> 
 
 
