@@ -29,9 +29,9 @@
 
 <!-- icons without padding -->
 [icon1_2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[icon1_3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-m&logo=github&logoColor=white
 [icon2_2]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black
 [icon3_2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
-[icon3_3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-m&logo=github&logoColor=white
 [icon4_2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 <!-- [icon5_2]: -->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
