@@ -38,8 +38,8 @@
 
 <!-- links to social media accounts -->
 [1]: https://github.com/cpapasotiri <!-- αλλαξε το-->
-[2]: www.linkedin.com/in/cpapasotiri
-<!-- [3]: -->
+<!-- [2]: -->
+[3]: www.linkedin.com/in/cpapasotiri
 [4]: https://www.facebook.com/christina.papasotiri
 [5]: https://www.instagram.com/xristina_papasotiri/
 <!-- [6]: -->
