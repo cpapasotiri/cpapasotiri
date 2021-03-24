@@ -3,7 +3,7 @@
 </h1>
 
 <!-- social media bottoms -->
-[![Github][iocn1_1]][1] 
+[![Github][icon1_1]][1] 
 &nbsp;
 <!-- [![CV][icon2_1]][2] 
 &nbsp; -->
