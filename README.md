@@ -7,7 +7,7 @@
 &nbsp;
 [![LinkedIn][icon3_1]][3] 
 &nbsp;
-[![Facebook][icon4_1]][4] 
+[![Facebook][icon4_3]][4] 
 &nbsp;
 [![Instagram][icon5_1]][5] 
 <!--&nbsp;-->
@@ -33,6 +33,7 @@
 [icon2_2]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black
 [icon3_2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
 [icon4_2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[icon4_3]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge-m&logo=facebook&logoColor=black
 <!-- [icon5_2]: -->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- [2]: -->
