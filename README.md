@@ -36,7 +36,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- links to social media accounts -->
-[1]:
+[1]: https://github.com/cpapasotiri <!-- αλλαξε το-->
 [2]: www.linkedin.com/in/cpapasotiri
 <!-- [3]: -->
 [4]: https://www.facebook.com/christina.papasotiri
