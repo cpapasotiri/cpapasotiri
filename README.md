@@ -24,7 +24,7 @@
 [icon1_1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [icon3_1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
 [icon4_1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[icon5_1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram&psig=AOvVaw2xFEzx8nn6upmkqDkNXuRL&ust=1616674165987000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiF3uDyyO8CFQAAAAAdAAAAABAD <!-- αλλαξέ το-->
+[icon5_1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram&psig=AOvVaw2xFEzx8nn6upmkqDkNXuRL&ust=1616674165987000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiF3uDyyO8CFQAAAAAdAAAAABAD 
 <!-- [icon6_1]:-->
 
 <!-- icons without padding -->
@@ -34,10 +34,9 @@
 [icon4_2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 <!-- [icon5_2]: -->
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- links to social media accounts -->
-[1]: https://github.com/cpapasotiri <!-- αλλαξε το-->
 <!-- [2]: -->
+<!-- links to social media accounts -->
+[1]: https://github.com/cpapasotiri
 [3]: www.linkedin.com/in/cpapasotiri
 [4]: https://www.facebook.com/christina.papasotiri
 [5]: https://www.instagram.com/xristina_papasotiri/
