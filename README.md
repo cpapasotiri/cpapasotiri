@@ -9,6 +9,10 @@
 &nbsp;
 [![Facebook][icon4_3]][4] 
 &nbsp;
+[![Spotify][icon5_1]][5] 
+&nbsp;
+[![Twitter][icon6_1]][6] 
+&nbsp;
 <!-- [![CV][icon2_1]][2] 
 &nbsp; -->
 
@@ -20,7 +24,8 @@
 [icon1_1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [icon3_1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
 [icon4_1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[icon5_1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Finstagram&psig=AOvVaw2xFEzx8nn6upmkqDkNXuRL&ust=1616674165987000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiF3uDyyO8CFQAAAAAdAAAAABAD 
+[icon5_1]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge-m&logo=spotify&logoColor=black
+[icon6_1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge-m&logo=twitter&logoColor=black
 
 <!-- icons without padding -->
 [icon1_2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
@@ -35,4 +40,9 @@
 <!-- links to social media accounts -->
 [1]: https://github.com/cpapasotiri
 [3]: www.linkedin.com/in/cpapasotiri
-[4]: https://www.facebook.com/christina.papasotiri
+[4]: https://www.facebook.com/cpapasotiri
+[5]: https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y
+[6]: https://twitter.com/cpapasotiri
+
+<!-- Statistics -->
+![Christina's github stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
