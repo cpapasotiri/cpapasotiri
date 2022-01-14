@@ -1,8 +1,8 @@
 <h2>Hi there, I'm Christina Papasotiri &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
 
 ## About
-* I'm an Undergraduate Student in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en).
-* As a developer 
+I'm an Undergraduate Student in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en). <br>
+As a developer, I like to pay attention to every detail about the project I'm working on.
 
 ## Find me on
 <div align="left">
