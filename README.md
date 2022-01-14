@@ -44,5 +44,9 @@
 [5]: https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y
 [6]: https://twitter.com/cpapasotiri
 
+<!-- Viewers -->
+Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=cpapasotir.cpapasotiri)
+
+
 <!-- Statistics -->
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
