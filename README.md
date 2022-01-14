@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Christina Papasotiri &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
+<h1>Hi there, I'm Christina Papasotiri &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
 ## About
 I'm an Undergraduate Student in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en). <br>
