@@ -6,19 +6,21 @@ As a developer, I like to pay attention to every detail about the project I'm wo
 
 ## Find me on
 <div align="left">
-    <a target="_blank" href="https://www.linkedin.com/in/cpapasotiri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5??style=flat-square&logo&logo=Linkedin&logoColor=white"></img></a>
-    &emsp;
+    <a target="_blank" href="https://www.linkedin.com/in/cpapasotiri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5??style=flat-square&logo=Linkedin&logoColor=black"></img></a>
+    &nbsp;
+    <a target="_blank" href="mailto:papasotiri.christina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836??style=flat-square&logo=gmail&logoColor=white"></img></a>
+    &nbsp;
     <a target="_blank" href="https://www.facebook.com/cpapasotiri"><img src="https://img.shields.io/badge/Facebook-1877F2??style=flat-square&logo=facebook&logoColor=black"></img></a>
-    &emsp;
-    <a target="_blank" href="https://www.instagram.com/cpapasotiri/"><img src="https://img.shields.io/badge/Instagram-E1306C??style=flat-square&logo=appveyor&logo=instagram&logoColor=white"></img></a>
-    &emsp;
+    &nbsp;
+    <a target="_blank" href="https://www.instagram.com/cpapasotiri/"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"></img></a>
+    &nbsp;
     <a target="_blank" href="https://twitter.com/cpapasotiri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2??style=flat-square&logo=Twitter&logoColor=black"></img></a>
-    &emsp;
+    &nbsp;
     <a target="_blank" href="https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y"><img src="https://img.shields.io/badge/-Spotify-1DB954??style=flat-square&logo=Spotify&logoColor=black"></img></a>
-    &emsp;
+    &nbsp;
 </div>
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cpapasotir.cpapasotiri)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri)
 
 ## Stats
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
