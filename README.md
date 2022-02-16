@@ -23,4 +23,4 @@ As a developer, I like to pay attention to every detail about the project I'm wo
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri)
 
 ## Stats
-![Christina's github stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
+![Christina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&line_height=21pt&hide=issues,prs,contribs)
