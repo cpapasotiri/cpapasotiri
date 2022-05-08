@@ -14,8 +14,6 @@ As a developer, I like to pay attention to every detail about the project I'm wo
     &nbsp;
     <a target="_blank" href="https://www.instagram.com/cpapasotiri/"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"></img></a>
     &nbsp;
-    <a target="_blank" href="https://twitter.com/cpapasotiri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2??style=flat-square&logo=Twitter&logoColor=black"></img></a>
-    &nbsp;
     <a target="_blank" href="https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y"><img src="https://img.shields.io/badge/-Spotify-1DB954??style=flat-square&logo=Spotify&logoColor=black"></img></a>
     &nbsp;
 </div>
