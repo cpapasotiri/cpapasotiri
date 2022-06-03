@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Christina &nbsp;</h1>
+<h1>Hi there, I'm Christina</h1>
 
 ## About
 I'm an Undergraduate Student in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en). <br>
