@@ -1,8 +1,13 @@
-<h1>Hi there, I'm Christina</h1>
+<h1>👋 Hello there, I'm Christina</h1>
 
 ## About
-I'm an Undergraduate Student in Computer Science at [Department of Informatics & Telecommunications, NKUA](https://www.di.uoa.gr/en). <br>
-As a developer, I like to pay attention to every detail about the project I'm working on.
+I am a Senior Undergraduate Student majoring in Computer Science at the [Department of Informatics & Telecommunications, National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en). <br>
+
+💻 As a developer, I thrive on paying attention to detail and delving into every aspect of the projects I work on. I believe that attention to detail is the cornerstone of creating high-quality software solutions. 
+
+🔍 I'm enthusiastic about learning new technologies and I'm always looking for new challenges. Currently I'm immersing my self in the world of SAP Data Services solution. while also keenlyinterested in expanding my knowledge in Data Engineering.
+
+🌱 I am always eager to learn and grow, both personally and professionally. If you have similar interests or have exciting projects to collaborate on, feel free to contact me! 
 
 ## Find me on
 <div align="left">
@@ -18,7 +23,10 @@ As a developer, I like to pay attention to every detail about the project I'm wo
     &nbsp;
 </div>
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri)
+## Glad to see you here! &nbsp; ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri)
 
 ## Stats
 ![Christina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&line_height=21pt&hide=issues,prs,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&layout=compact)
+
