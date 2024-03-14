@@ -26,7 +26,6 @@ I am a Senior Undergraduate Student majoring in Computer Science at the [Departm
 ## Glad to see you here! &nbsp; ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri)
 
 ## Stats
-![Christina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&line_height=21pt&hide=issues,prs,contribs)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&layout=compact)
-
