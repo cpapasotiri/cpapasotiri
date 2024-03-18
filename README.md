@@ -5,7 +5,7 @@ I am a Senior Undergraduate Student majoring in Computer Science at the [Departm
 
 💻 As a developer, I thrive on paying attention to detail and delving into every aspect of the projects I work on. I believe that attention to detail is the cornerstone of creating high-quality software solutions. 
 
-🔍 I'm enthusiastic about learning new technologies and I'm always looking for new challenges. Currently I'm immersing my self in the world of SAP Data Services solution. while also keenlyinterested in expanding my knowledge in Data Engineering.
+🔍 I'm enthusiastic about learning new technologies and I'm always looking for new challenges. Currently I'm immersing my self in the world of SAP Data Services solution, while I am also keenly interested in expanding my knowledge in the field of Data Engineering.
 
 🌱 I am always eager to learn and grow, both personally and professionally. If you have similar interests or have exciting projects to collaborate on, feel free to contact me! 
 
