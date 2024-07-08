@@ -23,8 +23,8 @@ I am a Senior Undergraduate Student majoring in Computer Science at the [Departm
     &nbsp;
 </div>
 
-## Glad to see you here! &nbsp; ![Visitors](https://komarev.com/ghpvc/?username=cpapasotiri&color=blue)
- <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cpapasotiri.cpapasotiri) -->
+## Glad to see you here! &nbsp; ![Visitors](https://komarev.com/ghpvc/?username=cpapasotiri&color=blueviolet)
+<!-- Used service provider: [antonkomarev](https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file) -->
 
 ## Stats
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula)
