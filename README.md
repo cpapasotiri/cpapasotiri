@@ -21,6 +21,8 @@ I am a Senior Undergraduate Student majoring in Computer Science at the [Departm
     &nbsp;
     <a target="_blank" href="https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y"><img src="https://img.shields.io/badge/-Spotify-1DB954??style=flat-square&logo=Spotify&logoColor=black"></img></a>
     &nbsp;
+    <a target="_blank" href="https://learn.microsoft.com/en-us/users/cpapasotiri"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa??style=flat-square&logo=microsoft&logoColor=white"></img></a>
+    &nbsp;
 </div>
 
 ## Glad to see you here! &nbsp; ![Visitors](https://komarev.com/ghpvc/?username=cpapasotiri&color=blueviolet)
