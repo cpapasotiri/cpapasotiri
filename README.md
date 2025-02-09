@@ -1,7 +1,7 @@
 <h1>👋 Hello there, I'm Christina</h1>
 
 ## About
-I am a Senior Undergraduate Student majoring in Computer Science at the [Department of Informatics & Telecommunications, National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en). <br>
+I am a near-graduate Computer Science student at the [Department of Informatics & Telecommunications, National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en). <br>
 
 💻 As a developer, I thrive on paying attention to detail and delving into every aspect of the projects I work on. I believe that attention to detail is the cornerstone of creating high-quality software solutions. 
 
