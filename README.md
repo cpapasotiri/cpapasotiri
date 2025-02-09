@@ -15,15 +15,15 @@ I am a near-graduate Computer Science student at the [Department of Informatics 
     &nbsp;
     <a target="_blank" href="mailto:papasotiri.christina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836??style=flat-square&logo=gmail&logoColor=white"></img></a>
     &nbsp;
+    <a target="_blank" href="https://learn.microsoft.com/en-us/users/cpapasotiri"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa??style=flat-square&logo=microsoft&logoColor=white"></img></a>
+    &nbsp;
+    <a target="_blank" href="https://g.dev/cpapasotiri"><img src="https://img.shields.io/badge/Google_Dev-258ffa??style=flat-square&logo=google&logoColor=white"></img></a>
+    &nbsp;
     <a target="_blank" href="https://www.facebook.com/cpapasotiri"><img src="https://img.shields.io/badge/Facebook-1877F2??style=flat-square&logo=facebook&logoColor=black"></img></a>
     &nbsp;
     <a target="_blank" href="https://www.instagram.com/cpapasotiri/"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"></img></a>
     &nbsp;
     <a target="_blank" href="https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y"><img src="https://img.shields.io/badge/-Spotify-1DB954??style=flat-square&logo=Spotify&logoColor=black"></img></a>
-    &nbsp;
-    <a target="_blank" href="https://learn.microsoft.com/en-us/users/cpapasotiri"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa??style=flat-square&logo=microsoft&logoColor=white"></img></a>
-    &nbsp;
-    <a target="_blank" href="https://g.dev/cpapasotiri"><img src="https://img.shields.io/badge/Google_Dev-258ffa??style=flat-square&logo=google&logoColor=white"></img></a>
     &nbsp;
 </div>
 
