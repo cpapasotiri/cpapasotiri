@@ -1,13 +1,26 @@
 <h1>👋 Hello there, I'm Christina</h1>
 
-## About
-I am a near-graduate Computer Science student at the [Department of Informatics & Telecommunications, National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en). <br>
+##  About Me  
+I am a **Computer Science graduate** from the [National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en), transitioning into **Data Engineering**. <br>
 
-💻 As a developer, I thrive on paying attention to detail and delving into every aspect of the projects I work on. I believe that attention to detail is the cornerstone of creating high-quality software solutions. 
+🔹 Passionate about **building efficient data pipelines, ETL workflows, and optimizing data processing**.  
+🔹 Developing expertise in **SQL, Python, and data integration** through projects and continuous learning.  
+🔹 Exploring **Azure Data Factory, Databricks, and Big Data processing** to expand my expertise.  <br>
 
-🔍 I'm enthusiastic about learning new technologies and always looking for new challenges. Currently, I'm working on expanding my knowledge in the field of Data Engineering.
+### 📚 Currently Learning & Upskilling:  
+📌 **Microsoft Azure Data Engineer Learning Path** (Cloud-based data solutions)  
+📌 **Advanced SQL & ETL Automation** (Codecademy Data Engineer Course)  
 
-🌱 I am always eager to learn and grow, both personally and professionally. If you have similar interests or have exciting projects to collaborate on, feel free to contact me! 
+<!-- ## 🛠 **Tech Stack**
+✔ **Programming & Scripting:** Python, SQL, C/C++  
+✔ **Databases:** PostgreSQL, MySQL, SQL Server, NoSQL (MongoDB)  
+✔ **Data Engineering & ETL:** Apache Airflow, dbt, Pandas, NumPy  
+✔ **Cloud & Big Data:** Azure Data Factory (learning), Databricks (learning)  
+✔ **DevOps & Tools:** Git, GitHub Actions, Docker (basic)  
+✔ **Data Governance & Compliance:** GDPR, Data Security  -->
+
+## 🔗 More projects coming soon!  
+💡 **Looking to collaborate** on **data engineering, cloud computing, and automation** projects!  
 
 ## Find me on
 <div align="left">
@@ -15,22 +28,21 @@ I am a near-graduate Computer Science student at the [Department of Informatics 
     &nbsp;
     <a target="_blank" href="mailto:papasotiri.christina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836??style=flat-square&logo=gmail&logoColor=white"></img></a>
     &nbsp;
+    <a target="_blank" href="https://www.codecademy.com/profiles/cpapasotiri"><img src="https://img.shields.io/badge/Codecademy-1f425f??style=flat-square&logo=codecademy&logoColor=white"></img></a>
+    &nbsp;
     <a target="_blank" href="https://learn.microsoft.com/en-us/users/cpapasotiri"><img src="https://img.shields.io/badge/Microsoft_Learn-258ffa??style=flat-square&logo=microsoft&logoColor=white"></img></a>
     &nbsp;
-    <a target="_blank" href="https://g.dev/cpapasotiri"><img src="https://img.shields.io/badge/Google_Dev-258ffa??style=flat-square&logo=google&logoColor=white"></img></a>
-    &nbsp;
-    <a target="_blank" href="https://www.facebook.com/cpapasotiri"><img src="https://img.shields.io/badge/Facebook-1877F2??style=flat-square&logo=facebook&logoColor=black"></img></a>
-    &nbsp;
-    <a target="_blank" href="https://www.instagram.com/cpapasotiri/"><img src="https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=instagram&logoColor=white"></img></a>
-    &nbsp;
-    <a target="_blank" href="https://open.spotify.com/user/21dlas6i77h7hocosdiri4q6y"><img src="https://img.shields.io/badge/-Spotify-1DB954??style=flat-square&logo=Spotify&logoColor=black"></img></a>
+    <a target="_blank" href="https://g.dev/cpapasotiri"><img src="https://img.shields.io/badge/Google_Developer-258ffa??style=flat-square&logo=google&logoColor=white"></img></a>
     &nbsp;
 </div>
 
-## Glad to see you here! &nbsp; ![Visitors](https://komarev.com/ghpvc/?username=cpapasotiri&color=blueviolet)
-<!-- Used service provider: [antonkomarev](https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file) -->
 
 ## Stats
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpapasotiri&count_private=true&show_icons=true&theme=dracula&hide_title=false&layout=compact)
+
+
+## 👀 Visitors Counter   
+![Visitors](https://komarev.com/ghpvc/?username=cpapasotiri&color=blueviolet)
+<!-- Used service provider: [antonkomarev](https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file) -->
