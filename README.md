@@ -8,7 +8,8 @@ I am a **Computer Science graduate** from the [National and Kapodistrian Univers
 🔹 Exploring **Azure Data Factory, Databricks, and Big Data processing** to expand my expertise.  <br>
 
 ### 📚 Currently Learning & Upskilling:  
-📌 **Astronomer Airflow 101** (Airflow 3)  
+📌 **Airflow 3 Fundamentals** (Astronomer)
+📌 **Airflow DAG Authoring** (Astronomer)  
 📌 **Associate Data Engineer in SQL** (DataCamp)  
 📌 **Data Engineer in Python** (DataCamp)  
 📌 **Google Cloud Professional Data Engineer** (Data Engineer Learning Path)  
