@@ -4,11 +4,9 @@
 I am a **Computer Science graduate** from the [National and Kapodistrian University of Athens (NKUA)](https://www.di.uoa.gr/en), transitioning into **Data Engineering**. <br>
 
 🔹 Passionate about **building efficient data pipelines, ETL workflows, and optimizing data processing**.  
-🔹 Developing expertise in **SQL, Python, and data integration** through projects and continuous learning.  <br>
+🔹 Developing expertise in **SQL, Python, Web Scraping and data integration** through projects and continuous learning.  <br>
 
 ### 📚 Currently Learning & Upskilling:  
-📌 **Airflow 3 Fundamentals** (Astronomer)  
-📌 **Airflow DAG Authoring** (Astronomer)  
 📌 **Associate Data Engineer in SQL** (DataCamp)  
 📌 **Data Engineer in Python** (DataCamp)  
 📌 **Google Cloud Professional Data Engineer** (Data Engineer Learning Path)  
